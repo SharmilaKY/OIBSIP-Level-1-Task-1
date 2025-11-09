@@ -1,50 +1,30 @@
-🚀 CodePro Bootcamp – Landing Page
+Landing Page
 
-A modern, responsive, and visually engaging Landing Page built for CodePro Bootcamp, featuring clean UI, smooth layout sections, and a professional design suitable for online courses, coding bootcamps, and training platforms.
-📌 Features
+This is a simple and responsive landing page built using HTML, CSS, and JavaScript.
+It includes a clean layout, basic styling, and sections that can be easily customized.
 
-🎯 Hero Section with overlay and CTA
+Features
 
-🧩 Features section with attractive cards
+Responsive design
 
-📚 Courses showcase with high-quality images
+Clean and simple UI
 
-⭐ Testimonials with student photos
+Easy to edit and customize
 
-📬 Contact form with smooth UI
+How to Use
 
-🎨 Modern typography (Poppins & Montserrat)
+Download or clone the project.
 
-📱 Fully responsive for all screens
+Open the index.html file in your browser.
 
-⚡ Lightweight & fast loading
+Customize the text, images, and styles as needed.
 
-✨ Stylish gradients and hover animations
+Files Included
 
-🛠️ Tech Stack
-Technology	Purpose
-HTML5	Page structure
-CSS3	Styling, layout, animations
-Google Fonts	Poppins & Montserrat
-Unsplash Images	Hero, features, courses
-RandomUser API	Testimonials photos
-📂 Project Structure
-project-folder/
-│
-├── index.html        # Main webpage
-├── style.css         # Stylesheet
-└── assets/           # (Optional) images, icons, fonts
+index.html
 
-🚀 Getting Started
-✅ 1. Clone the repository
-✅ 2. Open the project folder
-cd codepro-landing
-🤝 Contributing
-Fork the project
-Create a feature branch
-Commit your changes
-Submit a pull request
+style.css
 
-✅ 3. Open index.html in your browser
+script.js (optional)
 
-Just double-click it, or run Live Server in VS Code.
+assets/ folder for images and icons
