@@ -37,8 +37,6 @@ project-folder/
 
 🚀 Getting Started
 ✅ 1. Clone the repository
-git clone https://github.com/your-username/codepro-landing.git
-
 ✅ 2. Open the project folder
 cd codepro-landing
 🤝 Contributing
